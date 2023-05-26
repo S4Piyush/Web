@@ -1,0 +1,9 @@
+.header_main{
+    background-color: bisque;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 49px;
+    padding: 0px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}   

@@ -1,0 +1,15 @@
+.loginuserdetail{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* .verify_otp_button{
+    background-color: #201c62 !important;
+    color: #FFFFFF !important;
+    border: 1px solid #201c62 !important;
+    width:100px;
+    margin: 0 auto;
+} */
